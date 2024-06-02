@@ -14,19 +14,20 @@ After preparing a video record of synthesia like the image above,<br>
 
 please follow the steps and
 
-① Specify the video path in files<br>
+⑴ Specify the video path in files<br>
 
-② (from top to bottom)<br>
+⑵ (from top to bottom)<br>
  * File name (including .mp4)<br>
  * First note (A0 to C9 on the leftmost keyboard)<br>
  * Song tempo (3-digit BPM)<br>
  * Start time (time to cut until notes touch)<br>
- * Keyboard color (from RGB)<br>
+ * Keyboard color (from RGB)
  <br>
  Enter and click the "Run" button on the left.
  At this time, the button on the right resets the input value. Be careful not to operate incorrectly.
 <br>
-③After a few seconds, the results will be displayed within the frame.<br>
+<br>
+⑶ After a few seconds, the results will be displayed within the frame.<br>
 <br>
 <br>
 
@@ -36,4 +37,31 @@ We made major changes to css and changed the site description to English.
 The description has been changed to English.
 <br>
 <br>
-<img width="600" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
+<img width="350" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
+<img width="200" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/6976899c-552b-4bc6-9576-6cee4f1c9b60">
+<img width="350" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
+<br>
+<br>
+Also, since it cannot process complex or long videos, we have pre-stored one video data named "test2.mp4" for demo purposes. This is also included in this repository, so be careful with space.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+## **Development environments**
+
+【Master】 copycat by SoloSteve
+
+https://github.com/SoloSteve/copycat
+<br>
+
+【Editor】 Visual Studio Code w/python3.11.1 64-bit
+
+[https://replit.com/~](https://code.visualstudio.com/)https://code.visualstudio.com/
+
+
