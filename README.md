@@ -31,7 +31,7 @@ please follow the steps and
 <br>
 <br>
 
-## **revisions**
+## **Revisions**
 We made major changes to css and changed the site description to English.
 <br>
 The description has been changed to English.
