@@ -38,7 +38,7 @@ The description has been changed to English.
 <br>
 <br>
 <img width="300" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
-<img width="130" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/f2e7631d-751e-4b69-aa9c-117de3f9deff">
+<img width="200" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/f2e7631d-751e-4b69-aa9c-117de3f9deff">
 <img width="300" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
 <br>
 <br>
