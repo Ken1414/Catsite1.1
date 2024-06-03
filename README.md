@@ -34,7 +34,6 @@ please follow the steps and
 ## **Revisions**
 We made major changes to css and changed the site description to English.
 <br>
-The description has been changed to English.
 <br>
 <br>
 <img width="300" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
