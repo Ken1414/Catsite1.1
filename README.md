@@ -36,9 +36,8 @@ We made major changes to css and changed the site description to English.
 <br>
 <br>
 <br>
-<img width="300" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
-<img width="150" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/f2e7631d-751e-4b69-aa9c-117de3f9deff">
-<img width="300" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
+<img width="350" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
+<img width="350" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
 <br>
 <br>
 Also, since it cannot process complex or long videos, we have pre-stored one video data named "test2.mp4" for demo purposes. This is also included in this repository, so be careful with space.
