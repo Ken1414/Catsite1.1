@@ -8,7 +8,7 @@ The functionality is the same, but I will include the changes.
 Since it is created using Django and python, you need to activate the server to start the browser.<br>
 Once activated, you will probably be able to access it from the default port 8000.<br>
 
-<img width="700" alt="スクリーンショット 2023-12-02 15 58 55" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/738c73d1-6916-49f6-ab38-f0b5bda93f2b">
+<img width="500" alt="スクリーンショット 2023-12-02 15 58 55" src="https://github.com/Ken1414/Catsite1.0/assets/116622288/738c73d1-6916-49f6-ab38-f0b5bda93f2b">
 <br>
 After preparing a video record of synthesia like the image above,<br>
 
@@ -36,9 +36,9 @@ We made major changes to css and changed the site description to English.
 <br>
 <br>
 <br>
-<img width="350" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
-<img width="100" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/906723ef-8c6f-4ba5-8a27-f428a8c2ea77">
-<img width="350" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
+<img width="300" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
+<img width="70" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/906723ef-8c6f-4ba5-8a27-f428a8c2ea77">
+<img width="300" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
 <br>
 <br>
 Also, since it cannot process complex or long videos, we have pre-stored one video data named "test2.mp4" for demo purposes. This is also included in this repository, so be careful with space.
