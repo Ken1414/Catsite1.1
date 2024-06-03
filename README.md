@@ -37,7 +37,7 @@ We made major changes to css and changed the site description to English.
 <br>
 <br>
 <img width="350" alt="スクリーンショット 2024-06-02 14 16 06" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/2aa65cc5-8b4e-4973-9015-1f94664aefaf">
-<img width="200" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/906723ef-8c6f-4ba5-8a27-f428a8c2ea77">
+<img width="150" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/906723ef-8c6f-4ba5-8a27-f428a8c2ea77">
 <img width="350" alt="スクリーンショット 2024-06-03 4 15 20" src="https://github.com/Ken1414/Catsite1.1/assets/116622288/27fe7620-b912-4cbe-bc2b-d752d33e917a">
 <br>
 <br>
